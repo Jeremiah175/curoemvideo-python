@@ -1,8 +1,0 @@
-nome = str(input('Qual p seu nome: '))
-print('Prazer em te conhecer {}!'.format(nome))
-print('Prazer em te conhecer {:30}!'.format(nome))
-print('Prazer em te conhecer {:>30}!'.format(nome))
-print('Prazer em te conhecer {:<30}!'.format(nome))
-print('Prazer em te conhecer {:^30}!'.format(nome))
-print('Prazer em te conhecer {:=^30}!'.format(nome))
-print('Prazer em te conhecer {:x^30}!'.format(nome))
