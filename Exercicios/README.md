@@ -1,6 +1,6 @@
 # ÍNDICE:
 
-Ex001.....................................função PRINT - exibir OLÁ MUNDO na tela
+Ex001.....................................função **PRINT** - exibir OLÁ MUNDO na tela.
 
 .
 .
@@ -25,11 +25,11 @@ Ex059.....................................Criar um programa que leia dois valore
 
 Ex060.....................................Fatorial de um numero usando 
 
-**METODO TRADICIONAL** - *from math import factorial*
+* **METODO TRADICIONAL** - *from math import factorial*
 
-**WHILE** 
+* **WHILE** 
 
-**FOR**
+* **FOR**
 
 
 
