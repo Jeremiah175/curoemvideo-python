@@ -19,6 +19,10 @@ O programa deve realizar a operação solicitada quando escolher umas das opçõ
 
 ## Exercício 59_melhorado
 
-Fiz a inclusão de após informar o resultado, o ususário ter a opção de continuar **SIM** ou **NÃO**.
+* Fiz a inclusão de após informar o resultado, o ususário ter a opção de continuar **SIM** ou **NÃO**.
 
-Coloquei a frase: **opção inválida** em vermeho negrito.
+![Captura de tela 2022-04-05 230552](https://user-images.githubusercontent.com/101613123/161881513-43c6f23f-0001-4ed1-bd4f-b11e856999ce.png)
+
+* Coloquei a frase: **opção inválida** em vermeho negrito.
+
+![Captura de tela 2022-04-05 230713](https://user-images.githubusercontent.com/101613123/161881659-1080950b-9b7b-47c8-8073-95fdf9c44b26.png)
