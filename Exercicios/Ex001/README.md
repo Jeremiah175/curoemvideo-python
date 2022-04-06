@@ -1,7 +1,7 @@
 # Função PRINT
 
-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
-Ex001
+## Ex001
+
 A função PRINT, é uma da mais importantes e mais usa em Python.
 Ela exibe a mensagem desejada na tela ou envia apara outro dispositivo.
 
@@ -14,8 +14,7 @@ Veja o exemplo no arquivo ex000
 Assista o vídeo do professor Gustavo Guanabara: https://www.youtube.com/watch?v=ElRd0cbXIv4
 
 
-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
-Ex001_Nivel_2
+## Ex001_Nivel_2
 
 Outra forma de utilizar o PRINT. Solicitando para exibir o que há dentro de uma variável!
 
