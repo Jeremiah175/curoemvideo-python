@@ -11,14 +11,14 @@ Se a opção exibir um texto, o mesmo deve estar entre aspas -> print('Olá Mund
 
 Veja o exemplo no arquivo ex000
 
-Assista o vídeo do professor Gustavo Guanabara: https://www.youtube.com/watch?v=ElRd0cbXIv4
+Assista o vídeo do professor Gustavo Guanabara: [AULA 01](https://www.youtube.com/watch?v=ElRd0cbXIv4)
 
 
 ## Ex001_Nivel_2
 
 Outra forma de utilizar o PRINT. Solicitando para exibir o que há dentro de uma variável!
 
-Quando fizemos n = str('Olá Mundo!') -> aqui foi definido que a VARIÁVEL n continha a frase OLÁ MUNDO!.
+Quando fizemos *n = str('Olá Mundo!')* -> aqui foi definido que a VARIÁVEL n continha a frase OLÁ MUNDO!.
 
 Foi utilizado antes dos () a abreviação STR, para definir que a VÁRIAVEL n era uma STRING.
 
