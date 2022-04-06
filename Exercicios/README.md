@@ -31,6 +31,12 @@
 
 * **FOR**
 
+**Ex061**....................................Gerando uma PA
 
+   * Através do comando **WHILE**
+
+**Nivvel_2**
+
+   * Através do comando **FOR**
 
 ...em construção
